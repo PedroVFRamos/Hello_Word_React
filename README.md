@@ -10,9 +10,9 @@ Por hoje, começo pelo "Hello Word", e o amanhã, só pertence a Deus 🙏
 
 ## Tela Principal
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## Link do Site 
-https://hello-word-ruby.vercel.app/
+https://hello-word-react-plum.vercel.app/
 
 link do projeto gerado pelo site Vercel: https://vercel.com
